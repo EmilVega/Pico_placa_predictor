@@ -23,6 +23,6 @@ It is a program that allows predicting whether or not a car can be on the road o
 	
 	**Monday:** 1 and 2.
 	**Tuesday:** 3 and 4.
-	**Wednesday:** 5 y 6.
-	**Thursday:** 7 y 8.
-	**Friday:** 9 y 0.
+	**Wednesday:** 5 and 6.
+	**Thursday:** 7 and 8.
+	**Friday:** 9 and 0.
