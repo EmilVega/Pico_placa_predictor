@@ -7,7 +7,7 @@
 function [timeConstraint, daysConstraint] = ConstraintValues()
 
     keySet1 = {'Morning','Night'};
-    valueSet1 = {["7:30","9:30"], ["16:00","19:30"]};
+    valueSet1 = {["7:00","9:30"], ["16:00","19:30"]};
     timeConstraint = containers.Map(keySet1,valueSet1,'UniformValues',false);
 
     keySet2 = {'Monday','Tuesday','Wednesday','Thursday','Friday'};
