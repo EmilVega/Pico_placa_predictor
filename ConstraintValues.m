@@ -1,4 +1,7 @@
-% Define the constrainst values, time and days.
+% Input parameters: None
+% Output parameters: The constrainst of the time and days for "Pico y
+% placa"
+% Description: Define the constrainst values, time and days.
 % container.Map allows to have objects that maps values to unique keys
 
 function [timeConstraint, daysConstraint] = ConstraintValues()
