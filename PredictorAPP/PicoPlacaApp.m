@@ -12,7 +12,7 @@ catch ME
     error(ME.message);
 end
 
-[message,wd] = prediction(lastDigit, fullDate);
+[message,wd] = Prediction(lastDigit, fullDate);
 
 if(message)
     disp("The car with the license plate number "+plate+" CANNOT be on the road on "+wd+" "+datestr(fullDate));
